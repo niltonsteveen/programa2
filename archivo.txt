@@ -1,0 +1,20 @@
+func readFile(fdsafdsafdsafdsafdaf)(int) bool{
+	array:=abrirArchivo2("archivo.txt")
+	if(len(array)>0){
+		return true
+	}else {
+		return false
+	}
+}
+
+func readFile(fdsafdsafdsafdsafdaf) bool{
+	array:=abrirArchivo2("archivo.txt")
+	if(len(array)>0){
+		return true
+	}else {
+		return false
+	}
+	vdsvzvdasvas
+	fadsfsafa
+	asdfafad
+}
